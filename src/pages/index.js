@@ -5,7 +5,6 @@ import Layout from '../components/Layout';
 export default function Home() {
   return (
     <Layout title="Yotube">
-      <div>teste</div>
       clone youtube nextJs
       <Button variant="outlined" color="secondary">teste</Button>
     </Layout>
